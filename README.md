@@ -1,5 +1,5 @@
 # AntiSpamSecurity
-mail server blacklist generated using honeypots
+Mail server blacklist generated using honeypots
 Blacklists (Spammers+Hackers+Social Engineering Attackers)
 
 Blacklists (Spammers+Hackers+Social Engineering Attackers) our honeypots systems collected for years 2019-2020
